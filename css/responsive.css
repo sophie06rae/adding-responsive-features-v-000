@@ -89,6 +89,10 @@
   }
 
   #logo {
-    
+    padding: 60px 0 0;
+  }
+
+  #socail {
+    top: 60px;
   }
 }
