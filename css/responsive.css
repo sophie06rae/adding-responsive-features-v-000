@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1108px){
+
+.wraper{
+  width: 90%;
+}
+
+#socail {
+  position: absolute;
+  top: 82px;
+  right: 4px;
+  width: auto;
+}
+
+#social a {
+  display: inline-block;
+}
+}
+
+@media only screen and (max-width: 900px) {
+
+  body {
+    font-size: 85%;
+
+  }
+}
