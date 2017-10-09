@@ -41,3 +41,10 @@
     column-count: 2;
   }
 }
+
+@media only screen and (max-width: 800px) {
+
+  #navbar nav a {
+    font-size: 0.9em;
+  }
+}
